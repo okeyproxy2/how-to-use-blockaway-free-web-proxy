@@ -12,6 +12,8 @@ This tool requires no downloads, installations, or configurations. By simply vis
 
 3. Support for Various Websites: The proxy supports popular social media platforms, video-sharing sites, and search engines, making it versatile for various online activities.
 
+[Obtain 150K+ newly added US residential IPs right now!](https://www.okeyproxy.com/en/residential-proxies)
+
 ## Is BlockAway Safe to Use?
 
 While generally considered safe, users should review the privacy policy and terms of service, avoid entering sensitive information, and consider using a premium proxy for enhanced security and privacy.
@@ -46,8 +48,8 @@ IP Blacklisting: As free web proxies are shared among multiple users, the associ
 
 ## Alternative to BlockAway
 
-[**OkeyProxy**](https://www.okeyproxy.com/en?link=b63b57) stands out as the best alternative to BlockAway due to its extensive global coverage and diverse proxy offerings. While BlockAway provides a basic free web proxy service, OkeyProxy offers access to over 150 million clean IP addresses across 200 countries, ensuring robust and reliable connectivity. Moreover, OkeyProxy supports multiple proxy types, including residential, static, and datacenter proxies, along with protocols like HTTP, HTTPS, and SOCKS5, providing greater flexibility and security for various business needs. 
+[**OkeyProxy**](https://www.okeyproxy.com/en?link=b63b57) stands out as the best alternative to BlockAway due to its extensive global coverage and diverse proxy offerings. While BlockAway provides a basic free web proxy service, OkeyProxy offers access to over 150 million clean IP addresses across 200 countries, ensuring robust and reliable connectivity. 
 
-With a highly customizable dashboard and API, OkeyProxy allows for tailored solutions, making it ideal for businesses seeking advanced IP concealment and privacy. Additionally, the high availability rate of 99.9% ensures consistent and uninterrupted service.  Get a 1GB [free proxy trial](https://www.okeyproxy.com/proxy/?link=b63b57) now!
+With **Premium Plan**, access 150k newly added [high-quality US residential IPs](https://www.okeyproxy.com/en/residential-proxies) and enjoy the best discount at just $0.9/GB.
 
-![EN banner](https://github.com/okeyproxy2/how-to-use-blockaway-free-web-proxy/assets/155126786/3c0a781c-f852-44ae-a643-f90368ec9616)
+[![1](https://github.com/okeyproxy2/how-to-use-blockaway-free-web-proxy/assets/155126786/2777af47-7d85-4cbc-8ba5-f8689e7fa145)](https://www.okeyproxy.com/en/residential-proxies)
